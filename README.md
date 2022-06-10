@@ -1,2 +1,2 @@
 # littleVulkanEngine
-Another Vulkan tutorial
+Another Vulkan tutorial, by https://github.com/blurrypiano/littleVulkanEngine
